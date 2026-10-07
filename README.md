@@ -68,10 +68,19 @@ npm run dev
    http://localhost:3000
    ```
 
-   login credentials:
-   Admin: admin@acxiomcrm.com / Admin@1234 
-   Manager: manager@acxiomcrm.com / Manager@1234 
-   Sales Executive: sales@acxiomcrm.com / Sales@1234 
+   ### Login Credentials
+
+**Admin**
+- Username: `admin@acxiomcrm.com`
+- Password: `Admin@1234`
+
+**Manager**
+- Username: `manager@acxiomcrm.com`
+- Password: `Manager@1234`
+
+**Sales Executive**
+- Username: `sales@acxiomcrm.com`
+- Password: `Sales@1234`
    
 
 ## Notes
