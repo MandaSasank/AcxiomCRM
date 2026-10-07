@@ -67,6 +67,11 @@ npm run dev
    ```bash
    http://localhost:3000
    ```
+
+   login credentials:
+   Admin: admin@acxiomcrm.com / Admin@1234 (Alexander Pierce)
+Manager: manager@acxiomcrm.com / Manager@1234 (Victoria Vance)
+Sales Executive: sales@acxiomcrm.com / Sales@1234 (David Miller)
    
 
 ## Notes
