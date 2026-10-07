@@ -69,9 +69,9 @@ npm run dev
    ```
 
    login credentials:
-   Admin: admin@acxiomcrm.com / Admin@1234 (Alexander Pierce)
-Manager: manager@acxiomcrm.com / Manager@1234 (Victoria Vance)
-Sales Executive: sales@acxiomcrm.com / Sales@1234 (David Miller)
+   Admin: admin@acxiomcrm.com / Admin@1234 
+   Manager: manager@acxiomcrm.com / Manager@1234 
+   Sales Executive: sales@acxiomcrm.com / Sales@1234 
    
 
 ## Notes
