@@ -42,6 +42,7 @@ AcxiomCRM is a Customer Relationship Management (CRM) system designed to help ma
 
 ```bash
 git clone https://github.com/MandaSasank/AcxiomCRM.git
+```
 
 2. Open the project folder:
 
@@ -63,25 +64,8 @@ npm run dev
 
 5. Open the local URL displayed in the terminal in your web browser.
 
-## Project Features
+## Notes
 
-- Customer Relationship Management interface
-- Customer data management
-- Interactive dashboard
-- Responsive user interface
-- Backend server integration
+Make sure Node.js and npm are installed before running the project.
 
-## Technologies Used
-
-- React
-- TypeScript
-- Node.js
-- Express.js
-- Vite
-
-## Project Structure
-
-- `src/` - Application source code
-- `data/` - Project data
-- `server.ts` - Server entry point
-- `index.html` - Main HTML file
+The project runs locally using the Vite development server.
