@@ -53,7 +53,7 @@ cd AcxiomCRM
 3. Install dependencies:
 
 ```bash
-npm install
+npm install --legacy-peer-deps
 ```
 
 4. Start the development server:
@@ -62,7 +62,12 @@ npm install
 npm run dev
 ```
 
-5. Open the local URL displayed in the terminal in your web browser.
+5. Open the local URL in your website:
+
+   ```bash
+   http://localhost:3000
+   ```
+   
 
 ## Notes
 
