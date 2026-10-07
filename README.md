@@ -1,20 +1,87 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+# AcxiomCRM
 
-# Run and deploy your AI Studio app
+AcxiomCRM is a Customer Relationship Management (CRM) system designed to help manage customers, leads, opportunities, follow-ups, activities, and reports in one centralized platform.
 
-This contains everything you need to run your app locally.
+## Features
 
-View your app in AI Studio: https://ai.studio/apps/7edfaddc-d4eb-4fae-a2ef-1df3ecaa9b67
+- User authentication
+- Customer management
+- Lead management
+- Opportunity management
+- Follow-up management
+- Activity tracking
+- Dashboard
+- Reports
+- Audit logging
 
-## Run Locally
+## Technologies Used
 
-**Prerequisites:**  Node.js
+- React
+- TypeScript
+- Node.js
+- Express.js
+- Vite
 
+## Project Structure
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+- `src/` - Application source code
+- `data/` - Project data
+- `server.ts` - Server entry point
+- `index.html` - Main HTML file
+
+## Run the Project Locally
+
+### Prerequisites
+
+- Node.js
+- npm
+
+### Installation
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/MandaSasank/AcxiomCRM.git
+
+2. Open the project folder:
+
+```bash
+cd AcxiomCRM
+```
+
+3. Install dependencies:
+
+```bash
+npm install
+```
+
+4. Start the development server:
+
+```bash
+npm run dev
+```
+
+5. Open the local URL displayed in the terminal in your web browser.
+
+## Project Features
+
+- Customer Relationship Management interface
+- Customer data management
+- Interactive dashboard
+- Responsive user interface
+- Backend server integration
+
+## Technologies Used
+
+- React
+- TypeScript
+- Node.js
+- Express.js
+- Vite
+
+## Project Structure
+
+- `src/` - Application source code
+- `data/` - Project data
+- `server.ts` - Server entry point
+- `index.html` - Main HTML file
